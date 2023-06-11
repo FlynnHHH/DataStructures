@@ -10,7 +10,6 @@ def factorial(i):
             factorial *= index
         return factorial
 
-
 if n > arrsize:
     print(-1)
 else:
